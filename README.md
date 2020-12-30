@@ -1,1 +1,1 @@
-# seminarku.github.io
+# seminarku
